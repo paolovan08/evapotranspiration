@@ -1,0 +1,27 @@
+Date: 10/05/2019 14:48:08 
+etc value is: 4.64378678657 
+ 
+Date: 10/05/2019 14:50:02 
+etc value is: 4.64355129739 
+Temperature(C): 28.69 
+Humidity(%): 78 
+Wind Speed(m/s): 2.14661958573 
+ 
+Date: 10/05/2019 14:50:08 
+etc value is: 4.64355129739 
+Temperature(C): 28.69 
+Humidity(%): 78 
+Wind Speed(m/s): 2.14661958573 
+ 
+Date: 10/05/2019 14:50:19 
+etc value is: 4.64355129739 
+Temperature(C): 28.69 
+Humidity(%): 78 
+Wind Speed(m/s): 2.14661958573 
+ 
+Date: 10/12/2019 13:58:22 
+etc value is: 3.7770764221 
+Temperature(C): 33.44 
+Humidity(%): 61 
+Wind Speed(m/s): 1.5692013557 
+ 
